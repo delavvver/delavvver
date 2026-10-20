@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "login": "delavvver",
+  "seed": "#3DAA6B",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "streak",
+    "wave",
+    "buttons",
+    "projects",
+    "stack",
+    "about",
+    "stats"
+  ],
+  "hidden": [
+    "stats",
+    "stack",
+    "about"
+  ],
+  "hero": {
+    "greeting": "привет, я",
+    "name": "delavvver",
+    "subtitle": "Пермский Политех\nСРРС-26-1б",
+    "typing": true,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Russia"
+      }
+    ]
+  },
+  "about": {
+    "title": "Обо мне",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Разработчик и дизайнер"
+      },
+      {
+        "icon": "code",
+        "label": "В основном фронтенд"
+      },
+      {
+        "icon": "palette",
+        "label": "Люблю Material Design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Стек",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:github",
+            "label": ""
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "Описания пока нет.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "Активность на GitHub",
+    "stars": "Звёзд получено",
+    "contributions": "Вкладов за год",
+    "repos": "Публичных репо",
+    "followers": "Подписчиков",
+    "calendar": "Последние 21 день",
+    "weekdays": "ВПВСЧПС",
+    "languages": "Языки в моих репозиториях",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Серия",
+    "current": "Текущая серия",
+    "longest": "Рекорд за год",
+    "days": "дн."
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/delavvver"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/delavvver"
+      },
+      {
+        "icon": "brand:vk",
+        "url": "https://vk.ru/delavvver"
+      }
+    ],
+    "variant": "chip",
+    "fill": "filled",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ],
+    "card": true
+  }
+}
