@@ -18,9 +18,8 @@
     "stats"
   ],
   "hidden": [
-    "stats",
-    "stack",
-    "about"
+    "about",
+    "stack"
   ],
   "hero": {
     "greeting": "привет, я",
@@ -88,8 +87,10 @@
     ]
   },
   "projects": {
-    "source": "pinned",
-    "repos": [],
+    "source": "manual",
+    "repos": [
+      "delavvver"
+    ],
     "overrides": {},
     "empty": "Описания пока нет.",
     "fork": "Fork"
