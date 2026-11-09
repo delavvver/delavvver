@@ -19,7 +19,8 @@
   ],
   "hidden": [
     "about",
-    "stack"
+    "stack",
+    "streak"
   ],
   "hero": {
     "greeting": "привет, я",
@@ -87,7 +88,7 @@
     ]
   },
   "projects": {
-    "source": "manual",
+    "source": "pinned",
     "repos": [
       "delavvver"
     ],
